@@ -16,6 +16,7 @@ You may select any dataset for your project. Here are a few interesting places t
 -   [Data is Plural](https://www.data-is-plural.com/)
 -   [data.world](https://data.world/)
 -   [Delaware's Open Data Portal](https://data.delaware.gov/) (or any other state / municipality open data portal)
+-   [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
 
 In addition, you are allowed to use data from your work for this project. Please note that your final project will be published publicly, so you must receive appropriate permissions for doing so. Your data may be ingested from any format that you like. This may include .csv files, APIs, or web scraping. Your project must demonstrate provenance of the data from its original source through to the final report.
 
